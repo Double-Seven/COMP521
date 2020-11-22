@@ -1,5 +1,12 @@
 COMP521 A1 by ZiQi Li
 
-A 3D maze game with randomly generated simple 5x5 maze
+Unity3D project
 
 The game scene is /Assets/Scenes/MainGame.unity
+
+A 3D maze game with:
+- A dynamically constructed unicursal path
+- A randomly generated perfect maze composed by floating platforms
+- A player with a range weapon that could destroy the platforms of maze
+
+
