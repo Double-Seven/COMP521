@@ -1,4 +1,4 @@
-COMP521 A2 by ZiQi Li
+by ZiQi Li
 
 Unity2D project
 

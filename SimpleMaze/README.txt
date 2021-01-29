@@ -1,4 +1,4 @@
-COMP521 A1 by ZiQi Li
+by ZiQi Li
 
 Unity3D project
 
