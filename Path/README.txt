@@ -5,7 +5,7 @@ Unity3D project
 The game scene is /Assets/Scenes/MainGame.unity
 Efficiency analysis is in ExperimentResult.pdf
 
-A 3D path finding simulation game with:
+A 3D path finding simulation game with following algorithms implementation:
 - Randomly generated obstacles on the map
 - Dynamically construct a reduced visibility graph for path finding
 - Using A* algorithm to do the actual path finding on the reduced visibility graph
